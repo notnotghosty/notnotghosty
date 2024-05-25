@@ -1,1 +1,1 @@
-Yo, I'm Ghosty. I'm an amateur programmer. Made Lithium Launcher. 
+Yo, I'm Ghosty. I'm an amateur programmer. Made Lithium Backend Accesories.
