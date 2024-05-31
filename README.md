@@ -1,7 +1,7 @@
 Yo, I'm Ghosty. I'm an amateur programmer. Made Lithium Backend Accessories.
 
 **planned backend Accessories**:
-- full AI-powered item shop generator (almost complete)
+- full AI-powered item shop generator (ts has been almost complete for like 3 days now idk why it is taking so long to get the export working)
 - Tournament Creator (for competitive tab, can be used for events)
 - Battle pass customizer
 - simpler playlist manager for momentum backend
